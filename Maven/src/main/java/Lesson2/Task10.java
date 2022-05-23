@@ -2,7 +2,7 @@ package Lesson2;
 
 public class Task10 {
     public static void main(String[] args) {
-        shiftElements(new int[]{1,2,3},1);
+        shiftElements(new int[]{1,2,3},100);
         System.out.println();
         shiftElements(new int[]{1,2,3,4,5},-3);
     }
@@ -11,6 +11,7 @@ public class Task10 {
         if(times<0){
             n *=-1;
         }
+            times %= array.length;
             int index = 0;
             int temp = array[0];
             for(int i=0;i<array.length;i++){
