@@ -4,11 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c502c653-f05f-4069-a9d2-c2617bdf5421" name="Changes" comment="" />
+    <list default="true" id="c502c653-f05f-4069-a9d2-c2617bdf5421" name="Changes" comment="lesson 5 hw">
+      <change afterPath="$PROJECT_DIR$/Maven/src/main/java/Lesson_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/src/main/java/Lesson_6/MyArrayDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/src/main/java/Lesson_6/MyArraySizeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/src/main/java/Lesson_6/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -36,19 +51,32 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "18 (2)",
     "last_opened_file_path": "C:/Users/ADMIN/IdeaProjects/javaAutoQA/Maven",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Person">
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3.Person" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_6.Main" />
       <module name="Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson3.*" />
+          <option name="PATTERN" value="Lesson_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_6.Task1" />
+      <module name="Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,19 +86,6 @@
     </configuration>
     <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson2.Task10" />
-      <module name="Maven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.Task7" />
       <module name="Maven" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task10" />
         <item itemvalue="Application.Task9" />
         <item itemvalue="Application.Task8" />
-        <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Person" />
       </list>
     </recent_temporary>
   </component>
