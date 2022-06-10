@@ -4,11 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c502c653-f05f-4069-a9d2-c2617bdf5421" name="Changes" comment="" />
+    <list default="true" id="c502c653-f05f-4069-a9d2-c2617bdf5421" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/src/main/java/Lesson8/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/src/main/java/Lesson8/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/src/main/java/Lesson8/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -34,21 +51,22 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "18 (2)",
     "last_opened_file_path": "C:/Users/ADMIN/IdeaProjects/javaAutoQA/Maven",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Person">
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3.Person" />
+  <component name="RunManager" selected="Application.Task2">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.Task1" />
       <module name="Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson3.*" />
+          <option name="PATTERN" value="Lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.Task7" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.Task2" />
       <module name="Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson2.*" />
+          <option name="PATTERN" value="Lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task10" />
         <item itemvalue="Application.Task9" />
         <item itemvalue="Application.Task8" />
-        <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Person" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +158,21 @@
       <option name="presentableId" value="Default" />
       <updated>1653896255613</updated>
     </task>
+    <task id="LOCAL-00001" summary="hw 7 is completed">
+      <created>1654792650145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654792650145</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hw 7 is completed">
+      <created>1654792719220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654792719221</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,5 +188,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="hw 7 is completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw 7 is completed" />
   </component>
 </project>
